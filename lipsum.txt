@@ -1,9 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida, sapien eu ultricies maximus, 
-libero massa hendrerit tortor, non condimentum augue justo eu turpis. Cras pellentesque neque vitae tortor lobortis, 
-a blandit odio pharetra. Nulla et rhoncus lorem. Cras quis nibh eget arcu suscipit aliquam. Donec dolor nunc, 
-maximus ac semper sed, faucibus vitae dolor. Aliquam sodales finibus odio, eget luctus nibh laoreet sit amet. 
-Mauris eget libero id orci venenatis maximus. Nunc ut varius enim. Vestibulum nec maximus lacus. 
-Praesent suscipit velit non dui laoreet vehicula. Nam dictum, ligula nec viverra fermentum, leo leo rhoncus nisl, 
-et ultrices nulla sapien ut augue. Morbi rutrum ex id pulvinar aliquam. Nam pharetra ornare euismod. 
-Maecenas hendrerit felis ut placerat fermentum. Quisque sed sapien non nibh interdum congue. 
-Integer commodo augue quam, in fringilla turpis tincidunt pellentesque.
